@@ -1,7 +1,7 @@
 `timescale 1ns / 1ns
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: James Agresto & Azure Dovel
 // 
 // Create Date: 02/18/2025 04:24:40 PM
 // Design Name: 
